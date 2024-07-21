@@ -1,0 +1,11 @@
+Flask
+Flask-WTF
+Flask-Bootstrap
+nltk
+spacy
+scikit-learn
+pandas
+PyPDF2
+python-docx
+transformers
+torch
